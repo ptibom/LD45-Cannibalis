@@ -1,2 +1,3 @@
 # LD45-Cannibalis
-Cannibalis Game LD45
+Ludum Dare 45 submission.
+by KungKras, Daniel & rEaX
